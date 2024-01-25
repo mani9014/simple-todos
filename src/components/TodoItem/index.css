@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: space-between;
+  margin: 10px;
+}
+.titile-name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #000000;
+  margin-right: 10px;
+}
+.button {
+  font-family: 'Roboto';
+  color: #ff0b37;
+  background-color: #ffffff;
+  height: 30px;
+  width: 70px;
+  font-size: 10px;
+  border-color: #ff0b37;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  text-align: center;
+  font-weight: 600;
+}
